@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "A complete retro pixel-art Flappy Bird clone with physics, procedural graphics, audio synthesis, and high score persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
